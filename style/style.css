@@ -94,7 +94,7 @@ html{
 /* Home section styling */
 .home {
     display: flex;
-    background: url("photo.jpeg") no-repeat right;
+    background: url("../resources/photo.jpeg") no-repeat right;
     height: 100vh;
     color: #111;
     min-height: 500px;
